@@ -1,9 +1,9 @@
 cask "displaybrightness" do
-  version "1.1.0"
-  sha256 "bc9a4ce404ef5dac6f1f71c00bdf824dff5edd1cc93c73ae22c04c9d26c3783d"
+  version "1.2.0"
+  sha256 "adb5aac2b4ac936685f6eecacf444c0ddba7b47192b57b6965feaa61b445a44f"
 
   url "https://github.com/sdemirbas/DisplaySettings/releases/download/v#{version}/DisplaySettings-#{version}.zip"
-  name "DisplaySettings"
+  name "BarDis"
   desc "Menu bar app to control external display brightness via DDC/CI"
   homepage "https://github.com/sdemirbas/DisplaySettings"
 
