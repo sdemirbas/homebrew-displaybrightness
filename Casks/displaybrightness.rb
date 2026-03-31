@@ -1,6 +1,6 @@
 cask "displaybrightness" do
   version "1.0.0"
-  sha256 "8c549a7437ae940785ad105c732e21ca64ea0f831cf1169f34d5a1555349aedc"
+  sha256 "22efafb82cc97bf596935bf2c351a296490bdc77a7b8c1de80673c7fc48e59c1"
 
   url "https://github.com/sdemirbas/DisplaySettings/releases/download/v#{version}/DisplaySettings-#{version}.zip"
   name "DisplaySettings"
